@@ -9,13 +9,13 @@ Attention : Le système de chiffrement peut être détecté comme un virus (Chif
 
 ## Table des matières
 
-- [Fonctionnalités](README_FR.md#-fonctionnalités)
-- [Bibliothèques utilisées](README_FR.md#-bibliothèques-utilisées)
-- [Installation](README_FR.md#-installation)
-- [Compilation](README_FR.md#-compilation)
-- [Utilisation](README_FR.md#-utilisation)
-- [Structure du projet](README_FR.md#-structure-du-projet)
-- [Auteur](README_FR.md#-auteur)
+- [Fonctionnalités](README_FR.md#fonctionnalités)
+- [Bibliothèques utilisées](README_FR.md#bibliothèques-utilisées)
+- [Installation](README_FR.md#installation)
+- [Compilation](README_FR.md#compilation)
+- [Utilisation](README_FR.md#utilisation)
+- [Structure du projet](README_FR.md#structure-du-projet)
+- [Auteur](README_FR.md#auteur)
 
 ---
 
@@ -27,10 +27,10 @@ Attention : Le système de chiffrement peut être détecté comme un virus (Chif
 
 ### Table of Contents
 
-- [Features](README_EN.md#-features)
-- [Libraries Used](README_EN.md#-libraries-used)
-- [Installation](README_EN.md#-installation)
-- [Compilation](README_EN.md#-compilation)
-- [Usage](README_EN.md#-usage)
-- [Project Structure](README_EN.md#-project-structure)
-- [Author](README_EN.md#-author)
+- [Features](README_EN.md#features)
+- [Libraries Used](README_EN.md#libraries-used)
+- [Installation](README_EN.md#installation)
+- [Compilation](README_EN.md#compilation)
+- [Usage](README_EN.md#usage)
+- [Project Structure](README_EN.md#project-structure)
+- [Author](README_EN.md#author)

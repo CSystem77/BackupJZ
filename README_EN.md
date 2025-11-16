@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
-- [Features](#-features)
-- [Libraries Used](#-libraries-used)
-- [Installation](#-installation)
-- [Compilation](#-compilation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Author](#-author)
+- [Features](#features)
+- [Libraries Used](#libraries-used)
+- [Installation](#installation)
+- [Compilation](#compilation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Author](#author)
 
 ## Features
 

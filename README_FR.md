@@ -8,13 +8,13 @@ Attention : Le système de chiffrement peut être détecté comme un virus (Chif
 
 ## Table des matières
 
-- [Fonctionnalités](#-fonctionnalités)
-- [Bibliothèques utilisées](#-bibliothèques-utilisées)
-- [Installation](#-installation)
-- [Compilation](#-compilation)
-- [Utilisation](#-utilisation)
-- [Structure du projet](#-structure-du-projet)
-- [Auteur](#-auteur)
+- [Fonctionnalités](#fonctionnalités)
+- [Bibliothèques utilisées](#bibliothèques-utilisées)
+- [Installation](#installation)
+- [Compilation](#compilation)
+- [Utilisation](#utilisation)
+- [Structure du projet](#structure-du-projet)
+- [Auteur](#auteur)
 
 ## Fonctionnalités
 
