@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/cmake_install.cmake",
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/lib/cmake_install.cmake",
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/man/cmake_install.cmake",
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/src/cmake_install.cmake",
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/ossfuzz/cmake_install.cmake",
+		"C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

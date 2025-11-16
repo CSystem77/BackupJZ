@@ -1,0 +1,59 @@
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: bbf2ef8939417b48b42ede07dd70fc676477c93435b971c4d40f30df9086533b
+Status: install ok installed
+
+Package: bzip2
+Version: 1.0.8
+Port-Version: 6
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 682399439741e14dd95429f4aaaad9d05d067723988bb4a53656b27000d77def
+Description: bzip2 is a freely available, patent free, high-quality data compressor. It typically compresses files to within 10% to 15% of the best available techniques (the PPM family of statistical compressors), whilst being around twice as fast at compression and six times faster at decompression.
+Default-Features: tool
+Status: install ok installed
+
+Package: bzip2
+Feature: tool
+Architecture: x64-windows
+Multi-Arch: same
+Description: Builds bzip2 executable
+Status: install ok installed
+
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: af95a629a0dc90b830bca843a22f8dcbaf9a08c58d6f2b933f03ea5747ceef9d
+Status: install ok installed
+
+Package: liblzma
+Version: 5.8.1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 904409e0c4819aae64d3fbaaa98f950668a29e67eb0b2d76398354fcbde32a61
+Description: Compression library with an API similar to that of zlib.
+Status: install ok installed
+
+Package: zlib
+Version: 1.3.1
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 1e375a381090759b64fb68cc225dd45b4d4d4ec891c5ed0b0beaca3f4ccccc74
+Description: A compression library
+Status: install ok installed
+
+Package: zstd
+Version: 1.5.7
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 653f5b8ff542169a2e2b21740a601490169950d67b4100f559b9dc6320141eb8
+Description: Zstandard - Fast real-time compression algorithm
+Status: install ok installed
+

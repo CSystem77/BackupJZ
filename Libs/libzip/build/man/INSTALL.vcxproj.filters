@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CSystem\Desktop\BackupJZ\Libs\libzip\build\CMakeFiles\b439eb466b633bb6acf417739f72ae13\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CBC4407-B9EE-3091-A3A5-AB4FA433AF9F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

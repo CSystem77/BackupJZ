@@ -1,0 +1,20 @@
+^C:\USERS\CSYSTEM\DESKTOP\BACKUPJZ\LIBS\LIBZIP\BUILD\CMAKEFILES\2A1DDCB44021BF8327102867DA9C7244\ZIP_ERR_STR.C.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DPROJECT_SOURCE_DIR=C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip -DCMAKE_CURRENT_BINARY_DIR=C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/lib -P C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/cmake/GenerateZipErrorStrings.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CSYSTEM\DESKTOP\BACKUPJZ\LIBS\LIBZIP\LIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/CSystem/Desktop/BackupJZ/Libs/libzip -BC:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build --check-stamp-file C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

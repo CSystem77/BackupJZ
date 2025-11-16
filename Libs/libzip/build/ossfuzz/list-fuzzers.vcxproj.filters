@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CSystem\Desktop\BackupJZ\Libs\libzip\build\CMakeFiles\9c05ec393d9cac38fc2411d5099e2e0a\list-fuzzers.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CSystem\Desktop\BackupJZ\Libs\libzip\ossfuzz\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\CSystem\Desktop\BackupJZ\Libs\libzip\build\ossfuzz\CMakeFiles\list-fuzzers" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CBC4407-B9EE-3091-A3A5-AB4FA433AF9F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

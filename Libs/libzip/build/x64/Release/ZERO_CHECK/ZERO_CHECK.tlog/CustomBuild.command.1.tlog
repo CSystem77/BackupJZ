@@ -1,0 +1,10 @@
+^C:\USERS\CSYSTEM\DESKTOP\BACKUPJZ\LIBS\LIBZIP\BUILD\CMAKEFILES\581D23AE1F1638A4F6985249892E532C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/CSystem/Desktop/BackupJZ/Libs/libzip -BC:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/CSystem/Desktop/BackupJZ/Libs/libzip/build/libzip.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
